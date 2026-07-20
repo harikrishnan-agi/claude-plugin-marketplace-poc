@@ -8,7 +8,7 @@
        {
          "name": "atlassian-connector",
          "source": "./atlassian-connector",
-         "description": "Connect Claude to Jira and Confluence via Atlassian's official remote MCP server",
+         "description": "AG - Connect Claude to Jira and Confluence via Atlassian's official remote MCP server",
          "version": "1.0.0"
        }
      ]
