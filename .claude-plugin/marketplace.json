@@ -1,0 +1,15 @@
+{
+     "name": "arisglobal-plugins",
+     "owner": {
+       "name": "ArisGlobal IT Security",
+       "email": "hari@arisglobal.com"
+     },
+     "plugins": [
+       {
+         "name": "atlassian-connector",
+         "source": "./atlassian-connector",
+         "description": "Connect Claude to Jira and Confluence via Atlassian's official remote MCP server",
+         "version": "1.0.0"
+       }
+     ]
+   }
