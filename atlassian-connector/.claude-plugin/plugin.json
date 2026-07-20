@@ -1,0 +1,5 @@
+{
+    "name": "atlassian-connector",
+    "description": "Connect Claude to Jira and Confluence via Atlassian's official remote MCP server",
+    "version": "1.0.0"
+  }
