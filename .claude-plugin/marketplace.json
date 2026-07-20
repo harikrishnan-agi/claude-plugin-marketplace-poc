@@ -1,8 +1,8 @@
 {
      "name": "arisglobal-plugins",
      "owner": {
-       "name": "ArisGlobal IT Security",
-       "email": "hari@arisglobal.com"
+       "name": "ArisGlobal Claude Plugins",
+       "email": "infosec@arisglobal.com"
      },
      "plugins": [
        {
